@@ -23,12 +23,12 @@ __Download 2 files GUI.exe and VendingMachine.dll__
 
 ```
 
-__For getting best change coins commincation using below steps__  
-1. optimize full commination of coins list for perticulare remaining amount
+__For getting best change coins combinations using below steps__  
+1. optimize full combinations of coins list for particular remaining amount
 2. Remove duplicate list
-3. Remove unavaibility coin commincations from list
+3. Remove unavailability coin combinations from list
 4. Find ratio of coins from each coin
-5. order by less coin ratio to give best commincation of coins
-6. Taken from list, less number of coins used commnication
+5. order by less coin ratio to give best combinations of coins
+6. Taken from list, less number of coins used combinations
 7. Removed from available coins
 8. Updated in local DB
