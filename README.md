@@ -1,4 +1,5 @@
 # Vending Machine Test
+### source code - [src](https://github.com/PradeeDevananth/CoinProblem/tree/master/VendingMachineTest)
 ## How to use  
 __Download 2 files GUI.exe and VendingMachine.dll__  
 [GUI.exe and VendingMachine.dll](https://github.com/PradeeDevananth/CoinProblem/tree/master/VendingMachineTest/GUI/bin/Debug)  
